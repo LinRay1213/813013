@@ -2,5 +2,5 @@
 
 main() {
 
-    printf("«³ºÍ\n");
+    printf("å¥•ç¿\n");
 }
